@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "first_name": "Anas",
+        "last_name": "Ehtisham",
+        "email": "anas@gmail.com",
+        "gender": "male"
+    },  {
+    "id": 2,
+    "first_name": "Umair",
+    "last_name": "Azam",
+    "email": "umair@gmail.com",
+    "gender": "Female"
+},
+    {
+        "id": 3,
+        "first_name": "Python",
+        "last_name": "King",
+        "email": "pythonking.com",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Shah",
+        "last_name": "G",
+        "email": "shahg.com",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Ali",
+        "last_name": "Adeel",
+        "email": "ali.com",
+        "gender": "Male"
+    }
+]
